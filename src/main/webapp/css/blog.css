@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 22, 2020, 8:35:42 AM
+    Author     : mirandabeamer
+*/
+
+body {
+ background-color: #AAD9AA;
+}
+
+.container {
+   border-right: solid;
+   border-left: solid;
+   border-bottom: solid;
+   border-color: #388438;
+   background-color: white;
+    height: 95vh;
+}
+
+
+
+h1 {
+    color: #388438;
+}
+
+h2 {
+    color: #388438;
+}
+
+nav {
+    background-color: #388438;
+    color: white;
+}
+
+li a {
+    color: white;
+}
+
+hr {
+    height:2px;
+    border-width:0;
+    color:gray;
+    background-color: gray;
+}
+
+#picture {
+    height: 400px;
+    width: 400px;
+    float: right;
+}
